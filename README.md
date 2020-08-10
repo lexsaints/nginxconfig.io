@@ -73,6 +73,9 @@ routing, reverse proxy, www/non-www redirect, CDN, PHP (TCP/socket, WordPress, D
  
 2. Install NPM packages
     ```sh
+    cd nginxconfig.io
+    ```
+    ```sh
     npm ci
     ```
 
